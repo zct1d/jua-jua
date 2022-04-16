@@ -1,0 +1,2 @@
+# jua-jua
+random
